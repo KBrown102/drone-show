@@ -45,8 +45,6 @@ python -m http.server 8080
 
 预览访问：`https://kbrown102.github.io/drone-show/`
 
-## 版权声明
+## 许可证
 
-本仓库仅用于作品展示与预览分享，**未经作者书面授权，禁止复制、转载、二次发布或用于任何商业用途**。源码仅供个人学习参考，请勿搬运。
-
-个人项目，仅供学习与演示使用。
+本项目使用 MIT License，详见 [LICENSE](./LICENSE) 文件。
